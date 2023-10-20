@@ -6,6 +6,7 @@
 .pnp.js
 /API/SAP-dotnet/bin
 /API/SAP-dotnet/obj
+/API/SAP-dotnet/store.db
 # testing
 /coverage
 
