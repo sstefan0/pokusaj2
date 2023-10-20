@@ -1,0 +1,36 @@
+.right-link:hover {
+  color: black;
+}
+.right-links {
+  margin-right: 25px;
+  width: 196px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.right-link {
+  text-decoration: none;
+  color: white;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 250;
+  margin: 5px;
+}
+.center-links {
+  display: flex;
+  margin-right: 350px;
+}
+.center-link {
+  text-decoration: none;
+  color: white;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 250;
+  margin: 5px;
+  padding: 5px;
+}
+.center-link:hover {
+  color: black;
+}
